@@ -1,0 +1,6229 @@
+[
+  {
+    "order_id": "ORD118774",
+    "predicted_return_probability_explainer_lr": 0.2213,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100158",
+    "predicted_return_probability_explainer_lr": 0.2998,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.16644686433032688
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118683",
+    "predicted_return_probability_explainer_lr": 0.1544,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107284",
+    "predicted_return_probability_explainer_lr": 0.2648,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.13664006300062545
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112617",
+    "predicted_return_probability_explainer_lr": 0.321,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.11547770663505279
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.06343686445035306
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113806",
+    "predicted_return_probability_explainer_lr": 0.7352,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.3159122989380128
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.32570098919164325
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.08141659742761294
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112653",
+    "predicted_return_probability_explainer_lr": 0.3055,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.5343746501472691
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD105494",
+    "predicted_return_probability_explainer_lr": 0.2106,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.11547770663505279
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0887487325357395
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107557",
+    "predicted_return_probability_explainer_lr": 0.4615,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.14299062021291054
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111408",
+    "predicted_return_probability_explainer_lr": 0.432,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.18892153055190172
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.1422158094124282
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100317",
+    "predicted_return_probability_explainer_lr": 0.1458,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0559999331843019
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116400",
+    "predicted_return_probability_explainer_lr": 0.2235,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.568532428774894
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3479827415061228
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115197",
+    "predicted_return_probability_explainer_lr": 0.65,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.26699362237351404
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.08106219080565742
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114495",
+    "predicted_return_probability_explainer_lr": 0.1968,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.17341026265269965
+      },
+      {
+        "feature": "price",
+        "contribution": 0.07137086321691864
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD105429",
+    "predicted_return_probability_explainer_lr": 0.2931,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.10415993223053374
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.24103033039662072
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104875",
+    "predicted_return_probability_explainer_lr": 0.7956,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 2.2188751251219263
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.03352526696272703
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109872",
+    "predicted_return_probability_explainer_lr": 0.3274,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.39177143533459974
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.3159122989380128
+      },
+      {
+        "feature": "price",
+        "contribution": 0.04512635264122587
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116724",
+    "predicted_return_probability_explainer_lr": 0.3786,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "price",
+        "contribution": 0.1348245326287443
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3613517928948105
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118054",
+    "predicted_return_probability_explainer_lr": 0.6431,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.08428325339478134
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.08783793063377719
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109929",
+    "predicted_return_probability_explainer_lr": 0.3232,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.5967635566278119
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11095473017596848
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106149",
+    "predicted_return_probability_explainer_lr": 0.1997,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2046047158929711
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.1292031317345743
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104526",
+    "predicted_return_probability_explainer_lr": 0.3612,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.20014836543007522
+      },
+      {
+        "feature": "price",
+        "contribution": 0.09204490940306306
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112717",
+    "predicted_return_probability_explainer_lr": 0.1824,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.08746446589450668
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD117628",
+    "predicted_return_probability_explainer_lr": 0.4454,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.6948032668115222
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.09452793242128738
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113637",
+    "predicted_return_probability_explainer_lr": 0.5822,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      },
+      {
+        "feature": "price",
+        "contribution": 0.05406144670384988
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118778",
+    "predicted_return_probability_explainer_lr": 0.8696,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.6413270612567711
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "price",
+        "contribution": -0.0060389015964743215
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100315",
+    "predicted_return_probability_explainer_lr": 0.526,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.017437996451342558
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103164",
+    "predicted_return_probability_explainer_lr": 0.3359,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.09765230478346909
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109219",
+    "predicted_return_probability_explainer_lr": 0.6942,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.35200088891471015
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.02189434691423848
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.0691452396710402
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.04738353143494244
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104653",
+    "predicted_return_probability_explainer_lr": 0.6076,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.44524764088935065
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100990",
+    "predicted_return_probability_explainer_lr": 0.2533,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.24548668085951664
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD101504",
+    "predicted_return_probability_explainer_lr": 0.2711,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.16620275104046486
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.04863244969161395
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.013619134023617878
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118961",
+    "predicted_return_probability_explainer_lr": 0.5272,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.19084793051375104
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.18309777437897376
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106688",
+    "predicted_return_probability_explainer_lr": 0.2785,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.10480206555115013
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.16081602206449422
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108838",
+    "predicted_return_probability_explainer_lr": 0.6832,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.17341026265269965
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.026193131854600454
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115894",
+    "predicted_return_probability_explainer_lr": 0.3695,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.15558486080111597
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.036093800245192736
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108481",
+    "predicted_return_probability_explainer_lr": 0.6315,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.3026444260766813
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.12278179852841004
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116918",
+    "predicted_return_probability_explainer_lr": 0.3949,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.012334867382385012
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.39254624613508193
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119943",
+    "predicted_return_probability_explainer_lr": 0.6858,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.11102135617215686
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.26150514068914393
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.0691452396710402
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103652",
+    "predicted_return_probability_explainer_lr": 0.5002,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.37472084428349833
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113650",
+    "predicted_return_probability_explainer_lr": 0.3367,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "price",
+        "contribution": 0.3079473017681196
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.17800526410142253
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.12439040756084463
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114320",
+    "predicted_return_probability_explainer_lr": 0.193,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.11625251743553498
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103590",
+    "predicted_return_probability_explainer_lr": 0.3476,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.16965753093340902
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.23657397993372484
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110496",
+    "predicted_return_probability_explainer_lr": 0.8304,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 1.1226129112495302
+      },
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.04497360082896025
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111326",
+    "predicted_return_probability_explainer_lr": 0.2213,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.46026665884480217
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3123319378029555
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109510",
+    "predicted_return_probability_explainer_lr": 0.3659,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.5744818043133323
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.27982370896131564
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110838",
+    "predicted_return_probability_explainer_lr": 0.8696,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.5833945052391241
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.02105606528966905
+      },
+      {
+        "feature": "price",
+        "contribution": -0.016444773873248254
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109287",
+    "predicted_return_probability_explainer_lr": 0.1663,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116338",
+    "predicted_return_probability_explainer_lr": 0.2697,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.21874857808214115
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11737606338213273
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110740",
+    "predicted_return_probability_explainer_lr": 0.1933,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109108",
+    "predicted_return_probability_explainer_lr": 0.2843,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "price",
+        "contribution": 0.15739642153084069
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.14140366482628633
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.20092317623055744
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100736",
+    "predicted_return_probability_explainer_lr": 0.7529,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.21351741681876296
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104364",
+    "predicted_return_probability_explainer_lr": 0.2972,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2625372719106181
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119404",
+    "predicted_return_probability_explainer_lr": 0.4633,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.568532428774894
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.10196486368733852
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106917",
+    "predicted_return_probability_explainer_lr": 0.2338,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.3159122989380128
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112949",
+    "predicted_return_probability_explainer_lr": 0.3235,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.32938252885405683
+      },
+      {
+        "feature": "price",
+        "contribution": 0.0546494919057081
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.29759373066584144
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114633",
+    "predicted_return_probability_explainer_lr": 0.2439,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.03352526696272703
+      },
+      {
+        "feature": "price",
+        "contribution": 0.013828910670380322
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.18309777437897376
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102979",
+    "predicted_return_probability_explainer_lr": 0.1352,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.03994660016889127
+      },
+      {
+        "feature": "price",
+        "contribution": 0.0064723587616132726
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107949",
+    "predicted_return_probability_explainer_lr": 0.4621,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.20906106635586702
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.0647211310915859
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115119",
+    "predicted_return_probability_explainer_lr": 0.375,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.030799518663653255
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100419",
+    "predicted_return_probability_explainer_lr": 0.3138,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.388089895672186
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107432",
+    "predicted_return_probability_explainer_lr": 0.248,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110160",
+    "predicted_return_probability_explainer_lr": 0.468,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.27982370896131564
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119667",
+    "predicted_return_probability_explainer_lr": 0.5215,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.09645433238313664
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110824",
+    "predicted_return_probability_explainer_lr": 0.572,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.33015733965453914
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.06728966437405161
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111441",
+    "predicted_return_probability_explainer_lr": 0.7349,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.44524764088935065
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.35200088891471015
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111873",
+    "predicted_return_probability_explainer_lr": 0.7652,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2447118700590344
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.16195193108601194
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.008885010852262747
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": -0.004453318879585703
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113045",
+    "predicted_return_probability_explainer_lr": 0.2548,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      },
+      {
+        "feature": "price",
+        "contribution": 0.06969387005641574
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3702644938206024
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116237",
+    "predicted_return_probability_explainer_lr": 0.2628,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.4363349399635589
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD117319",
+    "predicted_return_probability_explainer_lr": 0.3021,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.12070886789843091
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103220",
+    "predicted_return_probability_explainer_lr": 0.75,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.35200088891471015
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2142922276192452
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.058941931206038085
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111835",
+    "predicted_return_probability_explainer_lr": 0.3267,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.373946033483016
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103626",
+    "predicted_return_probability_explainer_lr": 0.5255,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.35200088891471015
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.16620275104046486
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.05958406452665452
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103542",
+    "predicted_return_probability_explainer_lr": 0.3112,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.13305593165827284
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.07614536326947176
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104468",
+    "predicted_return_probability_explainer_lr": 0.2551,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.07654819944402746
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.174185073453182
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106274",
+    "predicted_return_probability_explainer_lr": 0.8582,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 1.0022914487513406
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.054446997961723115
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107010",
+    "predicted_return_probability_explainer_lr": 0.528,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11801819670274914
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107253",
+    "predicted_return_probability_explainer_lr": 0.3144,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.35200088891471015
+      },
+      {
+        "feature": "price",
+        "contribution": 0.05011675434296838
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.22320492854503707
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109476",
+    "predicted_return_probability_explainer_lr": 0.3562,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2402555195961385
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.08591153067192792
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119939",
+    "predicted_return_probability_explainer_lr": 0.6345,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.24994303132241258
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115985",
+    "predicted_return_probability_explainer_lr": 0.6105,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.3115571270024731
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.06498979967293184
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107134",
+    "predicted_return_probability_explainer_lr": 0.5523,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.33015733965453914
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11352326345843416
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103058",
+    "predicted_return_probability_explainer_lr": 0.4995,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112925",
+    "predicted_return_probability_explainer_lr": 0.5144,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.19201047530476562
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.13214512975631046
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106011",
+    "predicted_return_probability_explainer_lr": 0.2042,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "price",
+        "contribution": 0.1840300796665867
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.1349823316201221
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4237406993753534
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD101107",
+    "predicted_return_probability_explainer_lr": 0.6138,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.3045055282628582
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.12070886789843091
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110247",
+    "predicted_return_probability_explainer_lr": 0.5805,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.29759373066584144
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.1488405960923375
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102425",
+    "predicted_return_probability_explainer_lr": 0.4277,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.6680651640341466
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114328",
+    "predicted_return_probability_explainer_lr": 0.1223,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.084895932612041
+      },
+      {
+        "feature": "price",
+        "contribution": 0.04953868728367562
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106667",
+    "predicted_return_probability_explainer_lr": 0.1294,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.030799518663653255
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114168",
+    "predicted_return_probability_explainer_lr": 0.3269,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.18827939723128528
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.44602245168983307
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102587",
+    "predicted_return_probability_explainer_lr": 0.7583,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.43187858950066293
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.07627953086268155
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116797",
+    "predicted_return_probability_explainer_lr": 0.411,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2722247836368922
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.135997929680009
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116445",
+    "predicted_return_probability_explainer_lr": 0.1243,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.31678828826585137
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119918",
+    "predicted_return_probability_explainer_lr": 0.552,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.027203579124434427
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2053795266934534
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.13856646296247474
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115891",
+    "predicted_return_probability_explainer_lr": 0.0874,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115535",
+    "predicted_return_probability_explainer_lr": 0.5869,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.20092317623055744
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116892",
+    "predicted_return_probability_explainer_lr": 0.7228,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.22688646820745073
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.16620275104046486
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "price",
+        "contribution": -0.03369432153092421
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103559",
+    "predicted_return_probability_explainer_lr": 0.5895,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.568532428774894
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.42742223903776694
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.13664006300062545
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119915",
+    "predicted_return_probability_explainer_lr": 0.1905,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "price",
+        "contribution": 0.04733817424323785
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104433",
+    "predicted_return_probability_explainer_lr": 0.4241,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.174185073453182
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106141",
+    "predicted_return_probability_explainer_lr": 0.7268,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": -0.004453318879585703
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.0019029566106101839
+      }
+    ]
+  },
+  {
+    "order_id": "ORD105015",
+    "predicted_return_probability_explainer_lr": 0.7057,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.40959683718618345
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.09297499719870858
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114845",
+    "predicted_return_probability_explainer_lr": 0.5138,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.09765230478346909
+      },
+      {
+        "feature": "price",
+        "contribution": 0.010914627831759428
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100953",
+    "predicted_return_probability_explainer_lr": 0.6072,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2447118700590344
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.13626659826135495
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115450",
+    "predicted_return_probability_explainer_lr": 0.5025,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.016829800626700003
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.30787558734005954
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111201",
+    "predicted_return_probability_explainer_lr": 0.7497,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.4006841362603916
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.1536041979179984
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.04497360082896025
+      },
+      {
+        "feature": "price",
+        "contribution": -0.04058788762465357
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111435",
+    "predicted_return_probability_explainer_lr": 0.2414,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.038662333527658424
+      },
+      {
+        "feature": "price",
+        "contribution": 0.032265857293346904
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106122",
+    "predicted_return_probability_explainer_lr": 0.3545,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.0672326623436799
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112517",
+    "predicted_return_probability_explainer_lr": 0.5694,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.16002553112416265
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.16527237252739013
+      }
+    ]
+  },
+  {
+    "order_id": "ORD105378",
+    "predicted_return_probability_explainer_lr": 0.4279,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.027203579124434427
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.24548668085951664
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD101354",
+    "predicted_return_probability_explainer_lr": 0.236,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0887487325357395
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106267",
+    "predicted_return_probability_explainer_lr": 0.3312,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.1823229635784915
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107108",
+    "predicted_return_probability_explainer_lr": 0.5369,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.05792633314615116
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.03080704784003032
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108358",
+    "predicted_return_probability_explainer_lr": 0.1571,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.031598867000877745
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.31678828826585137
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112851",
+    "predicted_return_probability_explainer_lr": 0.2109,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2447118700590344
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0887487325357395
+      },
+      {
+        "feature": "price",
+        "contribution": 0.015862456125222607
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109239",
+    "predicted_return_probability_explainer_lr": 0.2861,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.27982370896131564
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0643476663523154
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112011",
+    "predicted_return_probability_explainer_lr": 0.4376,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.28559383502557995
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102799",
+    "predicted_return_probability_explainer_lr": 0.3938,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.6046210187515914
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4371097507640411
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118674",
+    "predicted_return_probability_explainer_lr": 0.2615,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2447118700590344
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115613",
+    "predicted_return_probability_explainer_lr": 0.4353,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.04444153341320623
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.27668113409978806
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100924",
+    "predicted_return_probability_explainer_lr": 0.5067,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114272",
+    "predicted_return_probability_explainer_lr": 0.2845,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.039719748765822106
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11223899681720131
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102924",
+    "predicted_return_probability_explainer_lr": 0.7038,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.3828587344088079
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108627",
+    "predicted_return_probability_explainer_lr": 0.2582,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.15269339601603604
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119657",
+    "predicted_return_probability_explainer_lr": 0.5527,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.05150499993998692
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.17864142391607785
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106669",
+    "predicted_return_probability_explainer_lr": 0.3558,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "price",
+        "contribution": -0.04272786660019417
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106626",
+    "predicted_return_probability_explainer_lr": 0.3246,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.9042517385676302
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110597",
+    "predicted_return_probability_explainer_lr": 0.1585,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      },
+      {
+        "feature": "price",
+        "contribution": 0.020241530292454134
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2053795266934534
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108972",
+    "predicted_return_probability_explainer_lr": 0.2283,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3034192368771636
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119167",
+    "predicted_return_probability_explainer_lr": 0.144,
+    "top_risk_increasing_factors": [],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102334",
+    "predicted_return_probability_explainer_lr": 0.4763,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "price",
+        "contribution": 0.009857609929324232
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.16081602206449422
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111805",
+    "predicted_return_probability_explainer_lr": 0.192,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.07333753284094534
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.027203579124434427
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.31678828826585137
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110889",
+    "predicted_return_probability_explainer_lr": 0.8556,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.8240374302355036
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": -0.14948272941295393
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114724",
+    "predicted_return_probability_explainer_lr": 0.6099,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.3115571270024731
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      }
+    ]
+  },
+  {
+    "order_id": "ORD101175",
+    "predicted_return_probability_explainer_lr": 0.3598,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.09233286387809216
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104641",
+    "predicted_return_probability_explainer_lr": 0.6396,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.18677931404138742
+      },
+      {
+        "feature": "price",
+        "contribution": 0.11201915519061602
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11223899681720131
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108942",
+    "predicted_return_probability_explainer_lr": 0.6911,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.25362457098482627
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11223899681720131
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106850",
+    "predicted_return_probability_explainer_lr": 0.1427,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.13819299822320422
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3479827415061228
+      }
+    ]
+  },
+  {
+    "order_id": "ORD117014",
+    "predicted_return_probability_explainer_lr": 0.1962,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.11102135617215686
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113086",
+    "predicted_return_probability_explainer_lr": 0.575,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.11700259864286222
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.0691452396710402
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103301",
+    "predicted_return_probability_explainer_lr": 0.6029,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.41482799844956153
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109303",
+    "predicted_return_probability_explainer_lr": 0.1065,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107160",
+    "predicted_return_probability_explainer_lr": 0.2992,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.6903469163486262
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113430",
+    "predicted_return_probability_explainer_lr": 0.1812,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "price",
+        "contribution": 0.02365937672587896
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110732",
+    "predicted_return_probability_explainer_lr": 0.3798,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.08428325339478134
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106571",
+    "predicted_return_probability_explainer_lr": 0.2238,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.5324438387981967
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "price",
+        "contribution": 0.023834326825526816
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.43265340030114524
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110410",
+    "predicted_return_probability_explainer_lr": 0.284,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.09490139716055786
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113010",
+    "predicted_return_probability_explainer_lr": 0.2034,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2722247836368922
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112066",
+    "predicted_return_probability_explainer_lr": 0.5976,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.5120928978327896
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112731",
+    "predicted_return_probability_explainer_lr": 0.6025,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.2437351189846183
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.025177533794713502
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.23211762947082887
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106486",
+    "predicted_return_probability_explainer_lr": 0.5038,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.41482799844956153
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.11673393006151629
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112047",
+    "predicted_return_probability_explainer_lr": 0.6513,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.28559383502557995
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111053",
+    "predicted_return_probability_explainer_lr": 0.5582,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.0669161996347811
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD107266",
+    "predicted_return_probability_explainer_lr": 0.6849,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.13258160951024983
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.29759373066584144
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.08205873074822938
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106187",
+    "predicted_return_probability_explainer_lr": 0.7154,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "past_orders",
+        "contribution": -0.038218724142156275
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104628",
+    "predicted_return_probability_explainer_lr": 0.4261,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.29759373066584144
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.1385342697500146
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108507",
+    "predicted_return_probability_explainer_lr": 0.5971,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      },
+      {
+        "feature": "price",
+        "contribution": 0.0915772671214948
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD117953",
+    "predicted_return_probability_explainer_lr": 0.7364,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.07756379750391439
+      }
+    ]
+  },
+  {
+    "order_id": "ORD106752",
+    "predicted_return_probability_explainer_lr": 0.3593,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.6948032668115222
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.30835832818655673
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100493",
+    "predicted_return_probability_explainer_lr": 0.6355,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.17341026265269965
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.08334299738946221
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.04497360082896025
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115922",
+    "predicted_return_probability_explainer_lr": 0.7285,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.20906106635586702
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.12508166322952982
+      }
+    ]
+  },
+  {
+    "order_id": "ORD101755",
+    "predicted_return_probability_explainer_lr": 0.156,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "discount_pct",
+        "contribution": 0.07333753284094534
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3658081433577065
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115385",
+    "predicted_return_probability_explainer_lr": 0.2188,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.23657397993372484
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116129",
+    "predicted_return_probability_explainer_lr": 0.425,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.3605769820943283
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119245",
+    "predicted_return_probability_explainer_lr": 0.4827,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "price",
+        "contribution": 0.06235195275674471
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.34352639104322685
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.26150514068914393
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102021",
+    "predicted_return_probability_explainer_lr": 0.4602,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.23657397993372484
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103348",
+    "predicted_return_probability_explainer_lr": 0.4047,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "price",
+        "contribution": 0.14322679387837237
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.10656500570926093
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.06407899777096948
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113522",
+    "predicted_return_probability_explainer_lr": 0.155,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.01747193394731641
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.3836335452092901
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115931",
+    "predicted_return_probability_explainer_lr": 0.4657,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.46307304274093436
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "price",
+        "contribution": 0.1360578310498361
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD104188",
+    "predicted_return_probability_explainer_lr": 0.6293,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.21011193013224377
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.39700259659797793
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.29759373066584144
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111853",
+    "predicted_return_probability_explainer_lr": 0.4818,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.4987238464441018
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.1568148645210805
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113283",
+    "predicted_return_probability_explainer_lr": 0.8051,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.1377594589495323
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.035524098140825196
+      },
+      {
+        "feature": "price",
+        "contribution": -0.033046407473673184
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119682",
+    "predicted_return_probability_explainer_lr": 0.2082,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.1532393707590521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD102207",
+    "predicted_return_probability_explainer_lr": 0.8107,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.27982370896131564
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      },
+      {
+        "feature": "device_Tablet",
+        "contribution": -0.07431909378950328
+      },
+      {
+        "feature": "price",
+        "contribution": -0.014499701282486444
+      }
+    ]
+  },
+  {
+    "order_id": "ORD113482",
+    "predicted_return_probability_explainer_lr": 0.5428,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4059152975237697
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.22541655071244676
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.1411349962449404
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119838",
+    "predicted_return_probability_explainer_lr": 0.0929,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.01546213137347336
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.4905859563187922
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119827",
+    "predicted_return_probability_explainer_lr": 0.7724,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.568532428774894
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.06277631188078399
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.035524098140825196
+      }
+    ]
+  },
+  {
+    "order_id": "ORD105408",
+    "predicted_return_probability_explainer_lr": 0.6241,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.3159122989380128
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.05278926658121978
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.19646682576766156
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": -0.10276638120125521
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116409",
+    "predicted_return_probability_explainer_lr": 0.2374,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.174185073453182
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD117937",
+    "predicted_return_probability_explainer_lr": 0.4971,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.8284937806983996
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.06600539773281876
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109597",
+    "predicted_return_probability_explainer_lr": 0.8287,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Footwear",
+        "contribution": 1.0487204887425972
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.7839302760694403
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.18932796073574928
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114296",
+    "predicted_return_probability_explainer_lr": 0.7692,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.17786661311559557
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      },
+      {
+        "feature": "price",
+        "contribution": -0.04099832188884646
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109589",
+    "predicted_return_probability_explainer_lr": 0.4756,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.35243909196901874
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118964",
+    "predicted_return_probability_explainer_lr": 0.2952,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.09966499898621875
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      }
+    ]
+  },
+  {
+    "order_id": "ORD109971",
+    "predicted_return_probability_explainer_lr": 0.7032,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.645783411719667
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.09838073234498587
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD110795",
+    "predicted_return_probability_explainer_lr": 0.3248,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.19123566450428334
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.17155793903122363
+      },
+      {
+        "feature": "price",
+        "contribution": 0.13029312548501332
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      }
+    ]
+  },
+  {
+    "order_id": "ORD112090",
+    "predicted_return_probability_explainer_lr": 0.2612,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.1354693490545263
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.39700259659797793
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD115996",
+    "predicted_return_probability_explainer_lr": 0.3086,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.207646529007921
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.1422158094124282
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.09896046798003484
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD118285",
+    "predicted_return_probability_explainer_lr": 0.3168,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.26699362237351404
+      },
+      {
+        "feature": "is_gift_wrapped",
+        "contribution": 0.05333196069981356
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.03994660016889127
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "payment_method_Card",
+        "contribution": -0.10156971665613865
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111171",
+    "predicted_return_probability_explainer_lr": 0.1997,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.05535779986368547
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.00012474408329346304
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Home",
+        "contribution": -0.5185119923854699
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD100259",
+    "predicted_return_probability_explainer_lr": 0.2958,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.1823229635784915
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.06533932644981984
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.11715078078235493
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116016",
+    "predicted_return_probability_explainer_lr": 0.7993,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.2224301177445548
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      },
+      {
+        "feature": "price",
+        "contribution": -0.031488486814451516
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.01977179864843621
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119935",
+    "predicted_return_probability_explainer_lr": 0.1761,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.0993807590778291
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Toys",
+        "contribution": -0.4925752261460116
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.2945065359513718
+      }
+    ]
+  },
+  {
+    "order_id": "ORD116691",
+    "predicted_return_probability_explainer_lr": 0.3221,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.46026665884480217
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": 0.031598867000877745
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.023130825018563308
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "payment_method_Wallet",
+        "contribution": -0.19065246055059998
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.17864142391607785
+      }
+    ]
+  },
+  {
+    "order_id": "ORD108580",
+    "predicted_return_probability_explainer_lr": 0.1764,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": 0.06329216910113176
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.031718184919604826
+      },
+      {
+        "feature": "payment_method_NetBanking",
+        "contribution": 0.012616943837257547
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Electronics",
+        "contribution": -0.5457904534470822
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": -0.36199217991744453
+      },
+      {
+        "feature": "device_Desktop",
+        "contribution": -0.14350847030014466
+      }
+    ]
+  },
+  {
+    "order_id": "ORD111574",
+    "predicted_return_probability_explainer_lr": 0.2699,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      },
+      {
+        "feature": "price",
+        "contribution": 0.019840408961322338
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.26331208271110035
+      }
+    ]
+  },
+  {
+    "order_id": "ORD119434",
+    "predicted_return_probability_explainer_lr": 0.2137,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "past_return_rate",
+        "contribution": 0.02189434691423848
+      },
+      {
+        "feature": "past_orders",
+        "contribution": 0.007793437728383412
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "category_Books",
+        "contribution": -0.542710682674651
+      },
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.14627206280987182
+      }
+    ]
+  },
+  {
+    "order_id": "ORD114916",
+    "predicted_return_probability_explainer_lr": 0.2288,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "payment_method_COD",
+        "contribution": 0.08697691145401873
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "review_score_of_product",
+        "contribution": -0.3336823206425386
+      },
+      {
+        "feature": "category_Beauty",
+        "contribution": -0.3243967816490511
+      },
+      {
+        "feature": "discount_pct",
+        "contribution": -0.14627206280987182
+      }
+    ]
+  },
+  {
+    "order_id": "ORD103081",
+    "predicted_return_probability_explainer_lr": 0.688,
+    "top_risk_increasing_factors": [
+      {
+        "feature": "category_Apparel",
+        "contribution": 1.0491962272265456
+      },
+      {
+        "feature": "size_variants_in_order",
+        "contribution": 0.3612207527892241
+      },
+      {
+        "feature": "days_to_deliver",
+        "contribution": 0.16620275104046486
+      }
+    ],
+    "top_risk_decreasing_factors": [
+      {
+        "feature": "past_return_rate",
+        "contribution": -0.29896288641426766
+      },
+      {
+        "feature": "payment_method_UPI",
+        "contribution": -0.1334400984176299
+      },
+      {
+        "feature": "device_Mobile",
+        "contribution": -0.10824085624344297
+      }
+    ]
+  }
+]

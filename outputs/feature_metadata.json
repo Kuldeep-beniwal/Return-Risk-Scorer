@@ -1,0 +1,67 @@
+{
+  "categorical": {
+    "category": [
+      "Apparel",
+      "Beauty",
+      "Books",
+      "Electronics",
+      "Footwear",
+      "Home",
+      "Toys"
+    ],
+    "payment_method": [
+      "COD",
+      "Card",
+      "NetBanking",
+      "UPI",
+      "Wallet"
+    ],
+    "device": [
+      "Desktop",
+      "Mobile",
+      "Tablet"
+    ]
+  },
+  "numeric_ranges": {
+    "price": {
+      "min": 99.0,
+      "max": 18499.74,
+      "median": 487.84000000000003
+    },
+    "discount_pct": {
+      "min": 0.2,
+      "max": 83.7,
+      "median": 22.7
+    },
+    "past_orders": {
+      "min": 0.0,
+      "max": 13.0,
+      "median": 4.0
+    },
+    "past_return_rate": {
+      "min": 0.0,
+      "max": 0.608,
+      "median": 0.093
+    },
+    "days_to_deliver": {
+      "min": 1.0,
+      "max": 11.0,
+      "median": 4.0
+    },
+    "is_gift_wrapped": {
+      "min": 0.0,
+      "max": 1.0,
+      "median": 0.0
+    },
+    "size_variants_in_order": {
+      "min": 1.0,
+      "max": 3.0,
+      "median": 2.0
+    },
+    "review_score_of_product": {
+      "min": 1.6,
+      "max": 5.0,
+      "median": 4.1
+    }
+  }
+}

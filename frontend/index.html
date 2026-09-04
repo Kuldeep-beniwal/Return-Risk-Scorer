@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Return-Risk Console</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="wordmark">Return-Risk Console</div>
+  <div class="model-tag">deployed model: random forest &middot; explainer: logistic regression</div>
+</header>
+
+<main class="layout">
+
+  <!-- LEFT: order intake form -->
+  <section class="panel intake" aria-labelledby="intake-title">
+    <h1 id="intake-title">New order</h1>
+    <p class="hint">Enter an order's details to get a pre-shipment return-risk score.</p>
+
+    <form id="order-form">
+      <div class="field">
+        <label for="category">Category</label>
+        <select id="category" name="category" required></select>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="price">Price (INR)</label>
+          <input type="number" id="price" name="price" min="0" step="1" required>
+        </div>
+        <div class="field">
+          <label for="discount_pct">Discount (%)</label>
+          <input type="number" id="discount_pct" name="discount_pct" min="0" max="90" step="1" required>
+        </div>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="payment_method">Payment method</label>
+          <select id="payment_method" name="payment_method" required></select>
+        </div>
+        <div class="field">
+          <label for="device">Device</label>
+          <select id="device" name="device" required></select>
+        </div>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="past_orders">Customer's past orders</label>
+          <input type="number" id="past_orders" name="past_orders" min="0" step="1" required>
+        </div>
+        <div class="field">
+          <label for="past_return_rate">Customer's past return rate</label>
+          <input type="number" id="past_return_rate" name="past_return_rate" min="0" max="1" step="0.01" required>
+        </div>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="days_to_deliver">Days to deliver</label>
+          <input type="number" id="days_to_deliver" name="days_to_deliver" min="1" max="20" step="1" required>
+        </div>
+        <div class="field">
+          <label for="size_variants_in_order">Size variants ordered</label>
+          <input type="number" id="size_variants_in_order" name="size_variants_in_order" min="1" max="5" step="1" required>
+        </div>
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label for="review_score_of_product">Product review score</label>
+          <input type="number" id="review_score_of_product" name="review_score_of_product" min="1" max="5" step="0.1" required>
+        </div>
+        <div class="field checkbox-field">
+          <label for="is_gift_wrapped">
+            <input type="checkbox" id="is_gift_wrapped" name="is_gift_wrapped">
+            Gift-wrapped
+          </label>
+        </div>
+      </div>
+
+      <button type="submit" id="submit-btn">Score this order</button>
+      <p id="form-error" class="form-error" role="alert"></p>
+    </form>
+  </section>
+
+  <!-- RIGHT: risk certificate -->
+  <section class="panel certificate" aria-labelledby="certificate-title" aria-live="polite">
+    <h1 id="certificate-title">Risk certificate</h1>
+
+    <div id="certificate-empty" class="certificate-empty">
+      <p>Score an order to see its risk certificate here.</p>
+    </div>
+
+    <div id="certificate-result" class="certificate-result hidden">
+      <div class="stamp-row">
+        <div id="stamp" class="stamp">
+          <span id="stamp-text">CLEAR</span>
+        </div>
+        <div class="probability-block">
+          <div class="probability-value"><span id="probability-number">0</span><span class="probability-pct">%</span></div>
+          <div class="probability-label">predicted return probability</div>
+          <div class="probability-sub">deployed model (random forest) &middot; threshold <span id="threshold-value">-</span></div>
+        </div>
+      </div>
+
+      <div class="explainer-note">
+        explainer model (logistic regression) independently estimates
+        <strong><span id="explainer-probability">-</span>%</strong>
+        &mdash; shown separately, never blended into the deployed score.
+      </div>
+
+      <div class="ledger">
+        <div class="ledger-column">
+          <h2 class="ledger-heading risk-up">Risk-increasing factors</h2>
+          <ul id="risk-up-list" class="ledger-list"></ul>
+        </div>
+        <div class="ledger-column">
+          <h2 class="ledger-heading risk-down">Risk-decreasing factors</h2>
+          <ul id="risk-down-list" class="ledger-list"></ul>
+        </div>
+      </div>
+
+      <div class="cost-note">
+        cost assumptions: &#8377;<span id="cost-fp">-</span> per false-flagged order &middot;
+        &#8377;<span id="benefit-tp">-</span> saved per return caught
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="footer">
+  Synthetic training data &middot; illustrative cost assumptions &middot; defense-only scoring tool
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

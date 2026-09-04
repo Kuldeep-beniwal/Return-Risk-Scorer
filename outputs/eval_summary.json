@@ -1,0 +1,49 @@
+{
+  "model_compared": {
+    "logistic_regression": {
+      "precision@0.5": 0.30727091633466136,
+      "recall@0.5": 0.7108294930875576,
+      "f1@0.5": 0.4290681502086231,
+      "roc_auc": 0.7406897274726647,
+      "confusion_matrix@0.5": [
+        [
+          2741,
+          1391
+        ],
+        [
+          251,
+          617
+        ]
+      ]
+    },
+    "random_forest": {
+      "precision@0.5": 0.35286783042394015,
+      "recall@0.5": 0.652073732718894,
+      "f1@0.5": 0.45792880258899676,
+      "roc_auc": 0.7475938053452653,
+      "confusion_matrix@0.5": [
+        [
+          3094,
+          1038
+        ],
+        [
+          302,
+          566
+        ]
+      ]
+    }
+  },
+  "best_model": "random_forest",
+  "cost_assumptions": {
+    "cost_false_positive_inr": 40.0,
+    "benefit_true_positive_inr": 180.0
+  },
+  "cost_optimal_threshold": 0.4700000000000001,
+  "cost_optimal_net_value_inr": 60620.0,
+  "cost_optimal_confusion_matrix": {
+    "tn": 3033,
+    "fp": 1099,
+    "fn": 287,
+    "tp": 581
+  }
+}
